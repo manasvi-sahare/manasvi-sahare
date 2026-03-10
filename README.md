@@ -81,6 +81,12 @@ Python, NLP techniques
 
 ---
 
+## Open Source Contributions
+
+Contributed a new theme preset “Matcha Dark Sea” to [Themix GUI](https://github.com/manasvi-sahare/themix-gui), following industry open-source workflows (fork, branch, commit, pull request) and collaborating with maintainers from themix-project.
+
+---
+
 ## Current Focus
 
 - Data Analytics Systems
