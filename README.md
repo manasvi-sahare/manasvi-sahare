@@ -80,6 +80,15 @@ Tech Stack
 Python, NLP techniques
 
 ---
+## GitHub Stats
+
+![Manasvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasvi-sahare&show_icons=true&theme=tokyonight)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-sahare&layout=compact&theme=tokyonight)
+
+---
 
 ## Open Source Contributions
 
@@ -92,6 +101,11 @@ Contributed a new theme preset “Matcha Dark Sea” to [Themix GUI](https://git
 - Data Analytics Systems
 - Applied Machine Learning
 - Intelligent Web Applications
+
+---
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=manasvi-sahare&theme=tokyonight)
 
 ---
 
