@@ -24,7 +24,7 @@ Frameworks & Tools
 
 Core Areas
 - Data Analysis
-- Backend Development
+- Frontend Development
 - Machine Learning Foundations
 - Algorithmic Problem Solving
 
