@@ -94,7 +94,7 @@ I'm a Mathematics and Computing student passionate about turning raw data into a
 
 ## 🌍 Open Source Contributions
 
-**GirlScript Summer of Code (GSSoC)** — Active open-source contributor with **4 PRs merged** across multiple projects as part of GSSoC, one of India's largest open-source programs.
+ Active open-source contributor with **4 PRs merged** across multiple projects as part of GSSoC, one of India's largest open-source programs.
 
 **[Themix GUI](https://github.com/themix-project/themix-gui)** — Contributed the **"Matcha Dark Sea"** theme preset, a custom GTK color scheme, following full open-source workflow: fork → branch → commit → pull request. Collaborated directly with upstream maintainers.
 
