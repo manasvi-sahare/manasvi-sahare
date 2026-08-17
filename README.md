@@ -121,7 +121,7 @@ I'm a Mathematics and Computing student passionate about turning raw data into a
 
 I'm always open to interesting conversations about data, ML, and building things. Feel free to reach out!
 
-- 📧 **Email:** [manasvisahare25@gmail.com](mailto:manasvisahare25@gmail.com)
+- 📧 **Email:** [manasvisahare9@gmail.com](mailto:manasvisahare25@gmail.com)
 - 💼 **LinkedIn:** [manasvi-sahare](https://www.linkedin.com/in/manasvi-sahare-aab3a2336)
 
 <div align="center">
