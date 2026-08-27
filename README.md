@@ -106,6 +106,7 @@ Active open-source contributor with PRs merged across multiple projects, includi
 **[SB2318/UltimateHealth](https://github.com/SB2318/UltimateHealth)** — Built a reusable glassmorphic `Modal` component with full accessibility support (focus trap, ARIA roles, keyboard controls) · [PR #1117](https://github.com/SB2318/UltimateHealth/pull/1117)
 
 **[Karanjot786/TermUI](https://github.com/Karanjot786/TermUI)** — Added Vitest unit tests for the `LogView`, `StatusIndicator`, and `Definition` widgets, rated "exceptional quality" by the maintainer · [PR #632](https://github.com/Karanjot786/TermUI/pull/632)
+
 ---
 
 ## 📊 GitHub Stats
