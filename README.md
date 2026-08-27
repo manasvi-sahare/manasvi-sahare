@@ -97,13 +97,15 @@ Built with: `Python` `scikit-learn` `XGBoost` `LightGBM` `SHAP` `Jupyter`
 
 ## 🌍 Open Source Contributions
 
-Active open-source contributor with **4 PRs merged** across multiple projects as part of GSSoC, one of India's largest open-source programs.
+Active open-source contributor with PRs merged across multiple projects, including matplotlib and statsmodels, as part of GSSoC (GirlScript Summer of Code).
 
-<!-- TODO: replace with real merged-PR links once confirmed, e.g.:
-- [#123 Add Matcha Dark Sea theme](https://github.com/themix-project/themix-gui/pull/123) — merged
--->
-**[Themix GUI](https://github.com/themix-project/themix-gui)** — Contributed the **"Matcha Dark Sea"** theme preset ([PR #TODO](https://github.com/themix-project/themix-gui/pulls?q=is%3Apr+author%3Amanasvi-sahare)), a custom GTK color scheme, following full open-source workflow: fork → branch → commit → pull request. Collaborated directly with upstream maintainers.
+**[matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)** — Fixed a broken Savannah download URL in the freetype build config; later backported to the v3.10.x release branch · [PR #31420](https://github.com/matplotlib/matplotlib/pull/31420)
 
+**[statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)** — Improved docstrings across `statsmodels/robust/norms.py` to match NumPy documentation style · [PR #9766](https://github.com/statsmodels/statsmodels/pull/9766)
+
+**[SB2318/UltimateHealth](https://github.com/SB2318/UltimateHealth)** — Built a reusable glassmorphic `Modal` component with full accessibility support (focus trap, ARIA roles, keyboard controls) · [PR #1117](https://github.com/SB2318/UltimateHealth/pull/1117)
+
+**[Karanjot786/TermUI](https://github.com/Karanjot786/TermUI)** — Added Vitest unit tests for the `LogView`, `StatusIndicator`, and `Definition` widgets, rated "exceptional quality" by the maintainer · [PR #632](https://github.com/Karanjot786/TermUI/pull/632)
 ---
 
 ## 📊 GitHub Stats
