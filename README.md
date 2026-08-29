@@ -15,10 +15,11 @@
 I'm a Mathematics and Computing student passionate about turning raw data into actionable insights. My work lives at the intersection of **data engineering**, **machine learning**, and **intelligent web applications** — I enjoy building systems that make sense of messy, real-world data.
 
 - 🔭 Currently working on: **Explainable & calibrated ML for healthcare risk prediction**
+- 🌟 Contributed a merged fix to **matplotlib**, backported to its stable release branch
 - 🧮 Background in: Mathematical modeling and algorithmic thinking
 - 🌱 Exploring: statistical rigor in ML (significance testing, subgroup fairness), NLP, and full-stack data apps
 - 🤝 Open to: Collaborations on data/ML projects and open-source contributions
-- ⚡ Fun fact: I contributed a custom color theme to an open-source Linux GUI toolkit
+- ⚡ Fun fact: my first open-source PR review comment came from a matplotlib core maintainer
 
 ---
 
@@ -75,37 +76,34 @@ Built with: `Python` `scikit-learn` `XGBoost` `LightGBM` `SHAP` `Jupyter`
 
 ### More Projects
 
-<!--
-  NOTE: replace each metric below with a real number before publishing.
-  These are placeholders — do not commit as-is.
--->
-
 [![Text Insight Studio](https://github-readme-stats.vercel.app/api/pin/?username=manasvi-sahare&repo=text-insight-studio&theme=tokyonight&hide_border=true)](https://github.com/manasvi-sahare/text-insight-studio)
 [![Suzume Spotify Mood Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=manasvi-sahare&repo=suzume-spotify-mood-analyzer&theme=tokyonight&hide_border=true)](https://github.com/manasvi-sahare/suzume-spotify-mood-analyzer)
 
 [![Student Performance Risk Analyzer](https://github-readme-stats.vercel.app/api/pin/?username=manasvi-sahare&repo=student-performance-analyzer&theme=tokyonight&hide_border=true)](https://github.com/manasvi-sahare/student-performance-analyzer)
 [![Context-Aware AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=manasvi-sahare&repo=context-aware-ai&theme=tokyonight&hide_border=true)](https://github.com/manasvi-sahare/context-aware-ai)
 
-| Project | Key Result |
+| Project | What It Does |
 |---|---|
-| [Text Insight Studio](https://github.com/manasvi-sahare/text-insight-studio) | **[TODO: e.g. "auto-profiles CSVs up to N columns in <X seconds"]** |
-| [Suzume – Spotify Mood Analyzer](https://github.com/manasvi-sahare/suzume-spotify-mood-analyzer) | **[TODO: e.g. "N% mood-classification accuracy on M test songs"]** |
-| [Student Performance Risk Analyzer](https://github.com/manasvi-sahare/student-performance-analyzer) | **[TODO: e.g. "flagged N at-risk students across M-record dataset"]** |
-| [Context-Aware AI Chatbot](https://github.com/manasvi-sahare/context-aware-ai) | **[TODO: e.g. "maintains context across N-turn conversations"]** |
+| [Text Insight Studio](https://github.com/manasvi-sahare/text-insight-studio) | Automatically profiles any uploaded CSV — detects column types, generates charts and word clouds, and produces natural-language summaries with no manual configuration |
+| [Suzume – Spotify Mood Analyzer](https://github.com/manasvi-sahare/suzume-spotify-mood-analyzer) | Detects a song's emotional mood in real time by combining live Spotify metadata with Genius lyrics sentiment analysis |
+| [Student Performance Risk Analyzer](https://github.com/manasvi-sahare/student-performance-analyzer) | Flags at-risk students using a fully interpretable, weighted-indicator scoring model — no black-box ML |
+| [Context-Aware AI Chatbot](https://github.com/manasvi-sahare/context-aware-ai) | Maintains full conversational memory across multi-turn sessions via a lightweight Python + JS architecture |
 
 ---
 
 ## 🌍 Open Source Contributions
 
-Active open-source contributor with PRs merged across multiple projects, including matplotlib and statsmodels, as part of GSSoC (GirlScript Summer of Code).
+**5 merged pull requests** across open-source projects, including a fix merged into **matplotlib** — one of the most widely-used Python libraries in the world.
 
-**[matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)** — Fixed a broken Savannah download URL in the freetype build config; later backported to the v3.10.x release branch · [PR #31420](https://github.com/matplotlib/matplotlib/pull/31420)
+| Project | Contribution | Outcome |
+|---|---|---|
+| **[matplotlib](https://github.com/matplotlib/matplotlib)** (23.1k ⭐) | [#31420 — Fixed a broken freetype dependency URL](https://github.com/matplotlib/matplotlib/pull/31420) | Merged by a core maintainer; **backported to the stable v3.10.x branch** and shipped in milestone v3.10.9 |
+| **[TermUI](https://github.com/Karanjot786/TermUI)** | [#632 — Test suite for LogView, StatusIndicator, and Definition widgets](https://github.com/Karanjot786/TermUI/pull/632) | Merged, rated **"quality: exceptional"** by the maintainer (GSSoC 2026) |
+| **[UltimateHealth](https://github.com/SB2318/UltimateHealth)** | [#1117 — Reusable glassmorphic Modal component](https://github.com/SB2318/UltimateHealth/pull/1117) | Merged — full ARIA support, focus trap, keyboard + backdrop close handling (GSSoC 2026) |
+| **[statsmodels](https://github.com/statsmodels/statsmodels)** | #9766 | Merged |
+| **[Themix GUI](https://github.com/themix-project/themix-gui)** (2.3k ⭐) | [#562 — "Matcha Dark Sea" GTK color theme preset](https://github.com/themix-project/themix-gui/pull/562) | Merged |
 
-**[statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)** — Improved docstrings across `statsmodels/robust/norms.py` to match NumPy documentation style · [PR #9766](https://github.com/statsmodels/statsmodels/pull/9766)
-
-**[SB2318/UltimateHealth](https://github.com/SB2318/UltimateHealth)** — Built a reusable glassmorphic `Modal` component with full accessibility support (focus trap, ARIA roles, keyboard controls) · [PR #1117](https://github.com/SB2318/UltimateHealth/pull/1117)
-
-**[Karanjot786/TermUI](https://github.com/Karanjot786/TermUI)** — Added Vitest unit tests for the `LogView`, `StatusIndicator`, and `Definition` widgets, rated "exceptional quality" by the maintainer · [PR #632](https://github.com/Karanjot786/TermUI/pull/632)
+All contributions followed the standard open-source workflow: fork → feature branch → PR → maintainer review → merge.
 
 ---
 
